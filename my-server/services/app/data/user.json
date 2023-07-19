@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "userName": "Fahri",
+        "email": "fahriabas@gmail.com",
+        "password": "fahri",
+        "role": "Admin",
+        "phoneNumber": "0823232323",
+        "Address": "Jl.BarataJaya2"
+    }
+]

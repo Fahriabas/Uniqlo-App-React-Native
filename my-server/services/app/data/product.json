@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Kaos Polo DRY-EX Lengan Pendek",
+    "description": "T-shirt dengan desain spesial untuk memperingati suksesi Ichikawa Danjuro, penguasa feodal agung Naritaya",
+    "categoryId": 1,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/456779/item/idgoods_06_456779.jpg?width=750",
+    "authorId": 1,
+    "price": 250000
+  },
+  {
+    "id": 2,
+    "name": "AIRism Kaos Polo Lengan Pendek (Full Open)",
+    "description": "T-shirt dengan desain spesial untuk memperingati suksesi Ichikawa Danjuro, penguasa feodal agung Naritaya",
+    "categoryId": 1,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/457834/item/idgoods_10_457834.jpg?width=750",
+    "authorId": 1,
+    "price": 100000
+  },
+  {
+    "id": 3,
+    "name": "Kaos Polo Rugger Lengan Panjang (Reguler)",
+    "description": "T-shirt dengan desain spesial untuk memperingati suksesi Ichikawa Danjuro, penguasa feodal agung Naritaya",
+    "categoryId": 1,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/462057/item/idgoods_19_462057.jpg?width=750",
+    "authorId": 1,
+    "price": 150000
+  },
+  {
+    "id": 4,
+    "name": "Gaun Kamisol Flare Kancing",
+    "description": "T-shirt dengan desain spesial untuk memperingati suksesi Ichikawa Danjuro, penguasa feodal agung Naritaya",
+    "categoryId": 2,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/460369/item/idgoods_09_460369.jpg?width=750",
+    "authorId": 1,
+    "price": 599000
+  },
+  {
+    "id": 5,
+    "name": "Gaun Kemeja Katun Panjang Garis Lengan Panjang",
+    "description": "T-shirt dengan desain spesial untuk memperingati suksesi Ichikawa Danjuro, penguasa feodal agung Naritaya",
+    "categoryId": 2,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/461505/item/idgoods_36_461505.jpg?width=750",
+    "authorId": 1,
+    "price": 699000
+  },
+  {
+    "id": 6,
+    "name": "Jaket AirSense (Ultra Light)",
+    "description": "Jas fungsional dengan teknologi UV Protection. Nyaman dikenakan seperti cardigan. Miliki juga koleksi Celana AirSense (Ultra Light) dan padankan sebagai setelan.",
+    "categoryId": 2,
+    "mainImg": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/456073/item/idgoods_32_456073.jpg?width=750",
+    "authorId": 1,
+    "price": 750000
+  }
+]
